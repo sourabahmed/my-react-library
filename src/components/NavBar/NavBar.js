@@ -55,9 +55,9 @@ const Navbar = () => {
                         </li>
                         <li>
                             <a
-                                href="/"
+                                href="https://github.com/sourabahmed/my-react-library"
                                 target="_blank">
-                                <i className="fab fa-youtube-square"></i>
+                                <i class="fab fa-github-square"></i>
                             </a>
                         </li>
                     </ul>
